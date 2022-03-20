@@ -1,0 +1,10 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is DEE6-2B6B
+
+ Directory of D:\git_project
+
+20-03-2022  04.32 PM    <DIR>          .
+20-03-2022  04.32 PM    <DIR>          ..
+20-03-2022  04.32 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  89,622,040,576 bytes free
